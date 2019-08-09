@@ -22,7 +22,7 @@
 1. Clone or download first this repository with `git clone https://github.com/hajidito/TonjooTest.git`
 2. Open the project in your favorite text editor
 3. Open your terminal or cmd and type `npm install`
-4. Make sure your android device can access the IP domain from the backend and connect to the internet.
+4. Make sure your android device connect to the internet.
 5. And the last just type in your terminal or cmd `react-native run-android`, be sure if you connected with a android device on debugging mode or use the android emulator on debugging mode too.
 
 ## Screenshot from the app
@@ -40,7 +40,7 @@
 </p>
 
 ## File APK
-[NoteApp-APK](https://drive.google.com/open?id=1Sh3hg0dxGOhDGzJtww6XIRNEMKCgiHQo)
+[TonjooTest-APK](https://drive.google.com/open?id=1Sh3hg0dxGOhDGzJtww6XIRNEMKCgiHQo)
 <hr>
 
 <h3 align="center">Author</h3>
