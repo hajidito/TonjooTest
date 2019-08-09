@@ -28,14 +28,12 @@
 ## Screenshot from the app
 <p align='center'>
   <span>
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150619.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150625.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150636.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150643.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150649.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150653.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-160528.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-161149.png' width=200 />
+  <img src='https://github.com/hajidito/TonjooTest/blob/master/Screenshot_20190809-163608.png' width=200 />
+  <img src='https://github.com/hajidito/TonjooTest/blob/master/Screenshot_20190809-163613.png' width=200 />
+  <img src='https://github.com/hajidito/TonjooTest/blob/master/Screenshot_20190809-163624.png' width=200 />
+  <img src='https://github.com/hajidito/TonjooTest/blob/master/Screenshot_20190809-163630.png' width=200 />
+  <img src='https://github.com/hajidito/TonjooTest/blob/master/Screenshot_20190809-163637.png' width=200 />
+  <img src='https://github.com/hajidito/TonjooTest/blob/master/Screenshot_20190809-163642.png' width=200 />
   </span>
 </p>
 
