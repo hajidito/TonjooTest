@@ -38,7 +38,7 @@
 </p>
 
 ## File APK
-[TonjooTest-APK](https://drive.google.com/open?id=1Sh3hg0dxGOhDGzJtww6XIRNEMKCgiHQo)
+[TonjooTest-APK](https://drive.google.com/file/d/1g7MDWDyU0_YRCVuNK8YjdBjsm5Led-Db)
 <hr>
 
 <h3 align="center">Author</h3>
